@@ -1,1 +1,13 @@
 /* Add custom css styles here */
+.transparent-bg {
+    background-color: rgba(200, 200, 200, 0.7);
+  }
+  
+  .rounded-3 {
+    border-radius: 1rem; 
+  }
+  
+  .p-3 {
+    padding: 1rem; 
+  }
+  
